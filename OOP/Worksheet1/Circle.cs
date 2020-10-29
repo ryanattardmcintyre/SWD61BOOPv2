@@ -13,12 +13,11 @@ namespace Worksheet1
 
         //constructor - bears the same name as the class, which is used to create an instance of a class (the object)
         //              secondary objective of a construct : it can be used as a normal method
-     /*   public Circle(double radius, string colour)
+        public Circle(double radius, string colour)
         {
             Radius = radius;
             Colour = colour;
         }
-     */
 
         public Circle()   //the constructor is like the key to start the class / the key to initialize the object
         {

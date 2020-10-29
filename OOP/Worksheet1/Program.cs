@@ -11,7 +11,7 @@ namespace Worksheet1
         static void Main(string[] args)
         {
             //object (instance) ->> object is when you create a space in memory and you start assigning values to the template you created earlier
-            Circle c = new Circle(5, "black"); //e.g. of an object --> c
+            Circle c = new Circle(); //e.g. of an object --> c
 
 
             Console.WriteLine("Input a radius: ");
