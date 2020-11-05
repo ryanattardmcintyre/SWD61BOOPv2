@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worksheet3", "Worksheet3\Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3_Polymorphism", "Week3_Polymorphism\Week3_Polymorphism.csproj", "{72B41D3D-06B7-4348-98E0-3480382EA1D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4_Polymorphism_Worksheet", "Week4_Polymorphism_Worksheet\Week4_Polymorphism_Worksheet.csproj", "{ADDA0E83-6522-43C5-8E71-9BA33AB2CEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesLibrary", "ShapesLibrary\ShapesLibrary.csproj", "{D9A4C16A-F816-47A9-B7FC-1DF650585D8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{72B41D3D-06B7-4348-98E0-3480382EA1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72B41D3D-06B7-4348-98E0-3480382EA1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72B41D3D-06B7-4348-98E0-3480382EA1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDA0E83-6522-43C5-8E71-9BA33AB2CEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDA0E83-6522-43C5-8E71-9BA33AB2CEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDA0E83-6522-43C5-8E71-9BA33AB2CEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDA0E83-6522-43C5-8E71-9BA33AB2CEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A4C16A-F816-47A9-B7FC-1DF650585D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A4C16A-F816-47A9-B7FC-1DF650585D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A4C16A-F816-47A9-B7FC-1DF650585D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A4C16A-F816-47A9-B7FC-1DF650585D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
