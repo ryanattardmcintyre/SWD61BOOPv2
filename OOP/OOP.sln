@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4_Polymorphism_Workshee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesLibrary", "ShapesLibrary\ShapesLibrary.csproj", "{D9A4C16A-F816-47A9-B7FC-1DF650585D8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesCanvas", "ShapesCanvas\ShapesCanvas.csproj", "{65818265-A9F2-4778-A32B-373E1882DBD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D9A4C16A-F816-47A9-B7FC-1DF650585D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9A4C16A-F816-47A9-B7FC-1DF650585D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9A4C16A-F816-47A9-B7FC-1DF650585D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65818265-A9F2-4778-A32B-373E1882DBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65818265-A9F2-4778-A32B-373E1882DBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65818265-A9F2-4778-A32B-373E1882DBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65818265-A9F2-4778-A32B-373E1882DBD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
