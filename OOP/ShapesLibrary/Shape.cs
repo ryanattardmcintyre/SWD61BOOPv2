@@ -17,9 +17,15 @@ namespace ShapesLibrary
         public string FillColor { get; set; }
 
 
-   
+        public Shape(int x, int y)
+        {
+            BorderColor = Color.Black; //constructors are used also to default values
 
-        public Shape(int x, int y, Color borderColor) 
+            X = x;
+            Y = y;
+        }
+
+        public Shape(int x, int y, Color borderColor) : this(x,y)
         {
             BorderColor = borderColor;
 
