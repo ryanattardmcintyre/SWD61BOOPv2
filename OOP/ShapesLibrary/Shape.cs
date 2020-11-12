@@ -13,14 +13,16 @@ namespace ShapesLibrary
         public int X { get; set; }
         public int Y { get; set; }
 
-        public string BorderColor { get; set; }
+        public Color BorderColor { get; set; }
         public string FillColor { get; set; }
 
 
-        public Shape(int x, int y)
+   
+
+        public Shape(int x, int y, Color borderColor) 
         {
-            X = x;
-            Y = y;
+            BorderColor = borderColor;
+
         }
 
         public virtual double FindArea()
@@ -35,7 +37,7 @@ namespace ShapesLibrary
 
         public virtual void Draw(Graphics g)
         {
-            g.DrawLine(new Pen(Color.FromName(BorderColor)), X, Y, X, Y);
+            g.DrawLine(new Pen(BorderColor), X, Y, X, Y);
         }
 
     }
