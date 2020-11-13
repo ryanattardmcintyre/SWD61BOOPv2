@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesCanvas", "ShapesCanva
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8_ClassRelationships", "Lesson8_ClassRelationships\Lesson8_ClassRelationships.csproj", "{ADBC27FF-D2F5-4255-A021-00758188D82C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worksheet2", "Worksheet2\Worksheet2.csproj", "{D932C4A4-182D-4496-8C8B-976BC723D5FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{ADBC27FF-D2F5-4255-A021-00758188D82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADBC27FF-D2F5-4255-A021-00758188D82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADBC27FF-D2F5-4255-A021-00758188D82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D932C4A4-182D-4496-8C8B-976BC723D5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D932C4A4-182D-4496-8C8B-976BC723D5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D932C4A4-182D-4496-8C8B-976BC723D5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D932C4A4-182D-4496-8C8B-976BC723D5FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
