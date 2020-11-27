@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_Abstraction", "Less
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_Worksheet5_Question3", "Lesson9_Worksheet5_Question3\Lesson9_Worksheet5_Question3.csproj", "{C7A92AED-23FB-42BF-8FD9-073AF6F0C072}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_Abstraction_LoggerExample", "Lesson9_Abstraction_LoggerExample\Lesson9_Abstraction_LoggerExample.csproj", "{D252DC3D-F177-43A6-A23B-8B7AAC06424A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C7A92AED-23FB-42BF-8FD9-073AF6F0C072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7A92AED-23FB-42BF-8FD9-073AF6F0C072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7A92AED-23FB-42BF-8FD9-073AF6F0C072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D252DC3D-F177-43A6-A23B-8B7AAC06424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D252DC3D-F177-43A6-A23B-8B7AAC06424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D252DC3D-F177-43A6-A23B-8B7AAC06424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D252DC3D-F177-43A6-A23B-8B7AAC06424A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
